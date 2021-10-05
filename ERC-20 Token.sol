@@ -2,16 +2,14 @@ pragma solidity ^0.4.24;
 
 // ----------------------------------------------------------------------------
 // 'Sacrosanct' token contract
-//
-// Deployed to : 0x5A86f0cafD4ef3ba4f0344C138afcC84bd1ED222
+
 // Symbol      : Sacrosanct
 // Name        : Sacrosanct by william
 // Total supply: 100000000
 // Decimals    : 18
 //
 // Enjoy.
-//
-// (c) by Moritz Neto with BokkyPooBah / Bok Consulting Pty Ltd Au 2017. The MIT Licence.
+.
 // ----------------------------------------------------------------------------
 
 
